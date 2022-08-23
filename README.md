@@ -68,5 +68,5 @@ Im learning `flutter` 📙
  </p>
 
 ## 📊 Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=UnfairRoblox91&show_icons=true&theme=rose_pine">
-<img src="https://komarev.com/ghpvc/?username=UnfairRoblox91&color=191724">
+'online' 
+'offline' 

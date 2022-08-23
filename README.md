@@ -80,4 +80,10 @@ Im learning `flutter` 📙
  
 ## 📊 Github stats
 'online'  
+<p>
+  <img src="https://raw.githubusercontent.com/frayray909090/frayray909090/main/11FFA907-632D-430A-B482-D8B8D69990AC.png" alt="apple" width="34" height="auto">
+</p>
 'offline' 
+<p>
+  <img src="https://raw.githubusercontent.com/frayray909090/frayray909090/main/32543D38-5CDB-4841-9786-FA54F667C9F7.png" alt="apple" width="34" height="auto">
+</p>

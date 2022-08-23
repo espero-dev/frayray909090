@@ -1,6 +1,14 @@
 ## 👋 Welcome to my github
 Hi im `espero` 🙂
 
+I am a youtuber 
+and i have my own company
+this is my main github profile but my company
+is only part open source most closed source so yea
+you will not find anything to make a virus for this but the test os will be part open source 
+but everything else will not and the app making software will be usable on windows and linux
+and their will be a sample app on the company github and yea
+
 I like to make `Stuff` 💡
 
 Im learning `flutter` 📙

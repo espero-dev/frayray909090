@@ -66,15 +66,25 @@ Im learning `flutter` 📙
   </a>
 <p>
 
-## 🛠️ Skills
+## 🛠️ products i use
 
-### Languages
+### products
 <p align="left">
 <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
   </a>
  </p>
+ 
+<-- ## 🛠️ company
 
+### company
+<p align="left">
+<a href="https://www.w3schools.com/cs/index.php" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
+  </a>
+ </p>
+ --->
+ 
 ## 📊 Github stats
 'online' 
 'offline' 

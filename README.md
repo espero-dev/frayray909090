@@ -70,20 +70,13 @@ Im learning `flutter` 📙
 
 ### products
 <p align="left">
-<a href="https://www.w3schools.com/cs/index.php" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
+<a href="android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="34" height="auto"/>
+  </a>
+   <a href="https://www.apple.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="34" height="auto"/>
   </a>
  </p>
- 
-<-- ## 🛠️ company
-
-### company
-<p align="left">
-<a href="https://www.w3schools.com/cs/index.php" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
-  </a>
- </p>
- --->
  
 ## 📊 Github stats
 'online' 

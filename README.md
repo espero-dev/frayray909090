@@ -3,7 +3,7 @@ Hi im `espero` 🙂
 
 I like to make `Stuff` 💡
 
-Im learning `flutt` 📙
+Im learning `flutter` 📙
 
 ## 🛠️ Skills
 
@@ -57,6 +57,15 @@ Im learning `flutt` 📙
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="34" height="auto"/>
   </a>
 <p>
+
+## 🛠️ Skills
+
+### Languages
+<p align="left">
+<a href="https://www.w3schools.com/cs/index.php" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
+  </a>
+ </p>
 
 ## 📊 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=UnfairRoblox91&show_icons=true&theme=rose_pine">

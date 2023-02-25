@@ -73,7 +73,7 @@ Im learning `flutter` 📙
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="34" height="auto"/>
   </a>
     <a href="https://www.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="microsoft" width="34" height="auto"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="microsoft" width="34" height="auto"/>
   </a>
  </p>
  
